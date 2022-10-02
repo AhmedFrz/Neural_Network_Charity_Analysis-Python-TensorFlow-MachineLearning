@@ -25,3 +25,12 @@ We will design and train these models using Python Tensorflow library
 #### Model Summary
 
 ![](Images/model%20summary.png)
+
+#### Training the model
+
+![](Images/training%20the%20model.png)
+
+
+#### Evaluating the model;
+
+![](Images/evaluating%20the%20model%20.png)
