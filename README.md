@@ -2,12 +2,7 @@
 
 ## Overview and purpose
 
-A non profit foundation Alphabet Soup
-Dedicated to improving people well being 
-Analyze the impact of each investment
-She is asked to do the risk assessment about which company to donate
-It is asked to create a mathematical data driven solution which can do this accurately
-Hence, a deep learning neural network. This will evaluate all types of input data and produce a clear decision making 
+A non profit foundation Alphabet Soup is dedicated to improving people well being. We will analyze the impact of each investment. We are asked to do the risk assessment about which company to donate. We will create a mathematical data driven solution which can do this accurately, hence, a deep learning neural network will be utilized. This will evaluate all types of input data and produce a clear decision making 
 We will design and train these models using Python Tensorflow library
 
 
